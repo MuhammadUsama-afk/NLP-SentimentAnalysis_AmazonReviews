@@ -4,12 +4,12 @@ The best businesses understand the sentiment of their customers — what people 
 # DATASETLINK: https://www.kaggle.com/bittlingmayer/amazonreviews
 
 # Techniques and their Metrics (discussed in Jupyter Notebooks)
-0 - Technique   -  Test Accuracy \n
-1 - LSTM        -  91.24%
-2 - CNN         -  90.14%
-3 - NB          -  84.09%
-4 - KNN         -  79.48%
-5 - LDA         -  84.63%
-6 - SVC         -  86.48%
-7 - LinSVC      -  89.25%
-8 - RandForest  -  84.23%
+0 - Technique   -  Test Accuracy                                                                                                                                                     
+1 - LSTM        -  91.24%                                                                                                                                                            
+2 - CNN         -  90.14%                                                                                                                                                                     
+3 - NB          -  84.09%                                                                                                                                                            
+4 - KNN         -  79.48%                                                                                                                                                                  
+5 - LDA         -  84.63%                                                                                                                                                            
+6 - SVC         -  86.48%                                                                                                                                                            
+7 - LinSVC      -  89.25%                                                                                                                                                            
+8 - RandForest  -  84.23%                                                                                                                                                            
