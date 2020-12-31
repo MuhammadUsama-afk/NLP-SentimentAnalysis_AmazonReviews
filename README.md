@@ -6,7 +6,7 @@ The best businesses understand the sentiment of their customers — what people 
 
 # DATASETLINK:                                                                                                                    https://www.kaggle.com/bittlingmayer/amazonreviews
 
-# Techniques and their Metrics (discussed in Jupyter Notebooks)
+# Techniques and their test accuracies (discussed in Jupyter Notebooks)
 0 - Technique   -  Test Accuracy                                                                                                                                                     
 1 - LSTM        -  91.24%                                                                                                                                                            
 2 - CNN         -  90.14%                                                                                                                                                                     
